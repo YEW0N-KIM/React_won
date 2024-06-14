@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_won/static/css/main.509f809d.css",
+    "main.js": "/React_won/static/js/main.755096f1.js",
+    "index.html": "/React_won/index.html",
+    "main.509f809d.css.map": "/React_won/static/css/main.509f809d.css.map",
+    "main.755096f1.js.map": "/React_won/static/js/main.755096f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.509f809d.css",
+    "static/js/main.755096f1.js"
+  ]
+}
